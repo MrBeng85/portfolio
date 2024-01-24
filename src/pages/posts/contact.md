@@ -7,7 +7,7 @@ imgSrc: '/assets/images/icon-contact.png'
 imgAlt: 'Avatar Elie'
 ---
 
-# Contactez-moi
+# Contactez-moi ☎️
 
 Pour me contacter, veuillez remplir le formulaire ci-dessous :
 

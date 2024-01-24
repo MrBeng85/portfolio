@@ -39,7 +39,7 @@ const Hero = () => (
       }
       avatar={
         <img
-          className="h-80 w-80"
+          className="h-80 w-80 b-8 rounded-full"
           src="/assets/images/AvatarMaker.png"
           alt="Avatar image"
           loading="lazy"
@@ -59,7 +59,7 @@ const Hero = () => (
               alt="Tel icon"
             />
           </a>
-          <a href="mailto:elie.garcia85670@gmail.com">
+          <a href="/posts/contact/">
             <HeroSocial src="/assets/images/icon-mail.png" alt="Mail icon" />
           </a>
         </>
