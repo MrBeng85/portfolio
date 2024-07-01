@@ -21,7 +21,7 @@ const ProjectList = () => (
         Explorez dès maintenant DjangoLens, la plateforme que j'ai créée avec Django, alliant simplicité et robustesse. 
         Cliquez sur l'image pour découvrir comment mes compétences en développement peuvent faire la différence !
         "
-        link="https://djangolens.elie-garcia.com"
+        link="https://garciaelie.pythonanywhere.com"
         img={{
           src: '/assets/images/project-web-backend.png',
           alt: 'Projet Web Backend',
